@@ -1,0 +1,182 @@
+[
+    {
+        "id": "pareja-01",
+        "titulo": "Strap U Double Diva Dildo Doble con Vibración",
+        "imagen": "./img/pareja/pareja01.png",
+        "categoria": {
+            "nombre": "Pareja",
+            "id": "pareja"
+        },
+        "precio": 539
+    },
+    {
+        "id": "pareja-02",
+        "titulo": "Adam & Eve Strapless Strap-On con Vibración",
+        "imagen": "./img/pareja/pareja02.png",
+        "categoria": {
+            "nombre": "Pareja",
+            "id": "pareja"
+        },
+        "precio": 399
+    },
+    {
+        "id": "pareja-03",
+        "titulo": "Satisfyer Little Secret con App",
+        "imagen": "./img/pareja/pareja03.png",
+        "categoria": {
+            "nombre": "Pareja",
+            "id": "pareja"
+        },
+        "precio": 369
+    },
+    {
+        "id": "pareja-04",
+        "titulo": "Svakom Nymph",
+        "imagen": "./img/pareja/pareja04.png",
+        "categoria": {
+            "nombre": "Pareja",
+            "id": "pareja"
+        },
+        "precio": 329
+    },
+    {
+        "id": "pareja-05",
+        "titulo": "Svakom Ella Neo con App",
+        "imagen": "./img/pareja/pareja05.png",
+        "categoria": {
+            "nombre": "Pareja",
+            "id": "pareja"
+        },
+        "precio": 329
+    },
+    {
+        "id": "succionadores-01",
+        "titulo": "Satisfyer Marvelous Four",
+        "imagen": "./img/succionadores/succionadores01.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 689
+    },
+    {
+        "id": "succionadores-02",
+        "titulo": "Satisfyer Pro 2 Generation 3 con App",
+        "imagen": "./img/succionadores/succionadores02.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 589
+    },
+    {
+        "id": "sucionadores-03",
+        "titulo": "Satisfyer Pro+ G-Spot",
+        "imagen": "./img/succionadores/succionadores03.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 399
+    },
+    {
+        "id": "succionadores-04",
+        "titulo": "Satisfyer Pro 2+ Vibraciones",
+        "imagen": "./img/succionadores/succionadores04.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 369
+    },
+    {
+        "id": "succionadores-05",
+        "titulo": "Satisfyer Love Triangle Negro con App",
+        "imagen": "./img/succionadores/succionadores05.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 319
+    },
+    {
+        "id": "succionadores-06",
+        "titulo": "Satisfyer Curvy 3+ con App",
+        "imagen": "./img/succionadores/succionadores06.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 309
+    },
+    {
+        "id": "succionadores-07",
+        "titulo": "Satisfyer Cutie Heart",
+        "imagen": "./img/succionadores/succionadores07.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 279
+    },
+    {
+        "id": "succionadores-08",
+        "titulo": "Satisfyer Number One",
+        "imagen": "./img/succionadores/succionadores08.png",
+        "categoria": {
+            "nombre": "Succionadores",
+            "id": "succionadores"
+        },
+        "precio": 179
+    },
+    {
+        "id": "masturbadores-01",
+        "titulo": "Svakom Alex Neo con App",
+        "imagen": "./img/masturbadores/masturbadores01.png",
+        "categoria": {
+            "nombre": "Masturbadores",
+            "id": "masturbadores"
+        },
+        "precio": 719
+    },
+    {
+        "id": "masturbadores-02",
+        "titulo": "Svakom Sam Neo con App",
+        "imagen": "./img/masturbadores/masturbadores02.png",
+        "categoria": {
+            "nombre": "Masturbadores",
+            "id": "masturbadores"
+        },
+        "precio": 489
+    },
+    {
+        "id": "masturbadores-03",
+        "titulo": "Satisfyer Men Heat Vibration",
+        "imagen": "./img/masturbadores/masturbadores03.png",
+        "categoria": {
+            "nombre": "Masturbadores",
+            "id": "masturbadores"
+        },
+        "precio": 369
+    },
+    {
+        "id": "masturbadores-04",
+        "titulo": "Satisfyer Men One",
+        "imagen": "./img/masturbadores/masturbadores04.png",
+        "categoria": {
+            "nombre": "Masturbadores",
+            "id": "masturbadores"
+        },
+        "precio": 289
+    },
+    {
+        "id": "masturbadores-05",
+        "titulo": "Ashley – Masturbador en Forma de Vagina",
+        "imagen": "./img/masturbadores/masturbadores05.png",
+        "categoria": {
+            "nombre": "Masturbadores",
+            "id": "masturbadores"
+        },
+        "precio": 139
+    }
+]
